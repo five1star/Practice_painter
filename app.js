@@ -7,7 +7,6 @@ const save = document.getElementById('jsSave');
 //canvas는 context를 갖는다. 
 //요소 안에서 픽셀을 다룰 수 있다.
 //캔버스 사이즈는 css 사이즈와 pixcel manipulating 사이즈가 있어야 한다. 
-
 const INITIAL_COLOR = "#2c2c2c";
 const CANVAS_SIZE = 700;
 canvas.width = CANVAS_SIZE;
